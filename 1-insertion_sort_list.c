@@ -35,8 +35,9 @@ int node_count(listint_t *node)
 	return (count);
 }
 /**
- * insertion_sort_list -  this func sorts a doubly linked list
- * of integers in ascending order using the insertion sort algo
+ * insertion_sort_list -  this func sorts a
+ * doubly linked list of integers in 
+ * ascending order using the insertion sort algo
  * print the list after each time you swap two elements
  * @list: listint_t node pointer
  */
